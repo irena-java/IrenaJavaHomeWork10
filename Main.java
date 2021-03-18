@@ -4,7 +4,7 @@ https://github.com/akadatsky/hillelFruits
 Зеленое яблоко 186г / 25.90
 Красное яблоко 146г / 26.90
 Банан 186г / 32.80
-Лимон 246г / 34.90*/
+Лимон 246г , 34.90*/
 package com.company;
 
 import com.company.model.Fruit;
